@@ -21,11 +21,6 @@ worker should do in this method.
  To observe the best environment/climatic condition that is more friendly for their survival.<br>
  The observation of study.<br>
 <h5><center><b><u>ANALYSIS CHARTS SHOW THE RESULT OF DEEPING METHODS</u></b></center></h5>
-<style>
-    h5{
-        font-size: 25px;
-    }
-</style>
 <b>The following Are the results obtained due to test of Deeping method explained above.</b><br>
 <b><u>EXPERINMENT 1</u><br>
 HABITAT TYPE: Brick pit<br>
