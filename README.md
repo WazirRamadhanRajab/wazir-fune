@@ -5,12 +5,6 @@
     <body>
     
  <head><center><b><h1> SIMPLE FUNESTUS ANALYSIS</h1></b></center> </head>
-<style>
- h1{
-   font-size: 45px;
-  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-   }
-   </style>
   <P>
  This simple analysis is about the best method of acquiring the funestus larval in their habitation. This analysis done from the few different type of habitat from the different sampling area around KILOMBERO RIVER VALLEY during the continuation of climate buzz project in 2024. This analysis was doing from different habitat type like: - stream/river, ditch, swamp, stream pool, ditch, brick or sand pit, spring-fed well, ground pool and manmade construction.
 In this analysis we have two similar Deeping method were used these I mention bellow.<br>
