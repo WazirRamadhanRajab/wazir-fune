@@ -16,11 +16,6 @@ This is the first analysis method were used during observation at the field area
 This is the second and final analysis method were used during observation at the field area (larval habitation) in this method the field worker should be placed the bucket/dipper at the upper part of the habitat. (ndoo au dip ya kikombe yapaswa kuchota viluilui pasi na kuzamishwa chini Zaidi ktika kingo za zalia kulingana na ukubwa na kina cha zalia. Atafanya hivyo mara kadhaa kutokana na idad ya dipa anazohitaji mchotaji.) thisis the simple explanation on what a field
 worker should do in this method.
 <h4><b><u>PURPOSE OF ANALYSIS</u></b></h4>
-<style>
-    h4{
-        font-size: 25px;
-    }
-</style>
  The common purpose is to identify the behavior of funestus larval in their habitat and the best way or method of acquiring sample. Other minor purpose is: -<br>
  To observe the common habitat type which funestus larval are being appear.<br>
  To observe the best environment/climatic condition that is more friendly for their survival.<br>
