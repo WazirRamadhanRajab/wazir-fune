@@ -58,4 +58,3 @@ NUMBER OF DIPPER: 6: @3<br></b>
 </P>
     </body>
 </html>
-</style>
