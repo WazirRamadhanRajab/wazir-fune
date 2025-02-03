@@ -3,12 +3,6 @@
     <head>
     </head>
     <body>
-    <style>
-        body{
-        background-color: aquamarine;
-        background-image: url('PXL_20250122_133541099.PORTRAIT.jpg');
-        background-repeat: no-repeat;s
-    }
     
  <head><center><b><h1> SIMPLE FUNESTUS ANALYSIS</h1></b></center> </head>
 <style>
